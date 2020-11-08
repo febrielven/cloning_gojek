@@ -21,6 +21,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "totorial cloning gojek",
+    "githubUrl": "https://github.com/febrielven/cloning_gojek.git"
   }
 }

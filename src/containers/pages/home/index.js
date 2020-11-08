@@ -18,7 +18,7 @@ import NavbarMenu from '../../../containers/organims/navbar-menu';
 export default class Home extends Component {
   render(){
     return (
-      <View style={{flex: 1}}>
+      <View style={{flex: 1, flexDirection:'column', justifyContent:'center',alignItems: 'center'}}>
         {/* Content */}
         <ScrollView style={{flex: 1, backgroundColor: 'white'}}>
           {/* Search bar */}
